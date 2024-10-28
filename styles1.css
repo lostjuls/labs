@@ -65,8 +65,33 @@
 
 .background-image {
     height: 300px;
-    width: 2000;
+    width: 200px;
 
     background: url('https://th.bing.com/th/id/OIP.S7VyKsYplmCQzr4VABvmwAHaEK?w=295&h=180&c=7&r=0&o=5&dpr=2&pid=1.7') no-repeat center center;
     background-size: cover;
+}
+
+.background-image-repeat {
+    height: 1000px;s
+    width: 1000px;
+    background: url('https://th.bing.com/th/id/OIP.S7VyKsYplmCQzr4VABvmwAHaEK?w=295&h=180&c=7&r=0&o=5&dpr=2&pid=1.7') repeat;
+}
+
+.box1 {
+    background-color: rgb(255, 55, 0);
+    color: white;
+    height: 200px;
+    width: 200px;
+    align-content: end;
+    position: absolute;
+    z-index: 1;
+}
+
+.box2 {
+    background-color: rgb(195, 255, 116);
+    color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    z-index: 2;
 }
