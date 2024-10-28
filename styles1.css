@@ -40,3 +40,15 @@
     top: 10px;
     left: 15px;
 }
+
+.fixed-box {
+    background-color: pink;
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid rgb(46, 0, 46) 2px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
