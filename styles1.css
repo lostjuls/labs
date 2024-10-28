@@ -237,3 +237,7 @@
     flex-wrap: wrap;
     align-content: space-evenly;
 }
+#flex-grow{
+    flex-grow: 2;
+   
+}
