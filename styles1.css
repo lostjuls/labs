@@ -228,4 +228,12 @@
     width: 100px;
     align-content: center;
     border: solid slateblue 2px;
+    
+}
+.flex-align-content {
+    height: fit-content;
+    width: fit-content;
+    border: solid slateblue 4px;
+    flex-wrap: wrap;
+    align-content: space-evenly;
 }
