@@ -1,0 +1,26 @@
+#static-box{
+    background-color: red;
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+    display: inline-block; 
+
+    position: static;
+  }
+  #relative-box{
+    background-color: rgb(255, 116, 116);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+    display: inline-block; 
+
+    position: relative;
+    down: 20px;
+    right: 30px
+
+    
+  }
