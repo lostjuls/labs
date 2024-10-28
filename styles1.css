@@ -102,7 +102,7 @@
     border: solid slateblue 4px;
     position: relative;
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: row
 
 }
    #boxA{
@@ -131,6 +131,44 @@
 
 #boxC{
     background-color: rgb(224, 126, 165);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+}
+
+.square{
+    height: 200px;
+    width: 300px;
+    border: solid rgb(94, 205, 90) 4px;
+    position: relative;
+    display: flex;
+    flex-direction: column
+
+}
+#box1{
+    background-color: rgb(95, 215, 103);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;  
+}
+
+#box2{
+    background-color: rgb(126, 188, 224);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+
+
+}
+
+#box3{
+    background-color: #e6c851;
     color: white;
     height: 100px;
     width: 100px;
