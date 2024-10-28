@@ -189,3 +189,43 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.flex-align {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+}
+
+#boxone{
+    background-color: rgb(238, 162, 201);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+    display: 
+  
+
+   
+}
+
+#boxtwo{
+    background-color: rgb(177, 126, 224);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+
+
+}
+
+#boxthree{
+    background-color: rgb(224, 126, 165);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+}
