@@ -62,3 +62,11 @@
     position: sticky;
     top: 0;
 }
+
+.background-image {
+    height: 300px;
+    width: 2000;
+
+    background: url('https://th.bing.com/th/id/OIP.S7VyKsYplmCQzr4VABvmwAHaEK?w=295&h=180&c=7&r=0&o=5&dpr=2&pid=1.7') no-repeat center center;
+    background-size: cover;
+}
