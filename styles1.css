@@ -175,3 +175,11 @@
     align-content: center;
     border: solid slateblue 2px;
 }
+
+.flex-justify-content {
+    background-color: #ffcc00;
+    color: white;
+
+    display: flex;
+    justify-content: space-evenly;
+}
