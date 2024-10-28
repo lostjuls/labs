@@ -21,6 +21,22 @@
     position: relative;
     down: 20px;
     right: 30px
+}
+.container {
+    height: 200px;
+    width: 300px;
+    border: solid slateblue 4px;
+    position: relative;
+}
 
-    
-  }
+.absolute-box {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid purple 2px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
