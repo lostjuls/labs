@@ -183,3 +183,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+#flex-wrap{
+    height: max-content;
+    display: flex;
+    flex-wrap: wrap;
+}
