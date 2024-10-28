@@ -95,3 +95,45 @@
     position: absolute;
     z-index: 2;
 }
+
+.border{
+    height: 200px;
+    width: 300px;
+    border: solid slateblue 4px;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+   #boxA{
+    background-color: rgb(238, 162, 201);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+  
+  
+
+   
+}
+
+#boxB{
+    background-color: rgb(177, 126, 224);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+
+
+}
+
+#boxC{
+    background-color: rgb(224, 126, 165);
+    color: white;
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: solid slateblue 2px;
+}
