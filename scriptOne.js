@@ -83,7 +83,7 @@ if (hasCar & hasLicense & hasInsurance) {
   console.log("Check your driving eligibility.");
 }
 
-let num_1 = 21;
+let num_1 = 22;
 
 if (num_1 % 2 === 0) {
   console.log("The number is even.");
